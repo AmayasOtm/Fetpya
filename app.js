@@ -2,6 +2,7 @@
 const express = require('express')
 
 const app = express()
+app.use(express.static('public'))
 app.set('view enigne','ejs')
 
 app.get('/',(req,res) =>
