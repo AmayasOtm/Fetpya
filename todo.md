@@ -1,0 +1,13 @@
+o : task done / x : task not done
+
+17/8/2021
+
+//TODO:
+
+>fix the overflow issue in the main page : x
+>change the structure of the post slider so it fits both the new_post div and the posts divs : x
+>find a way to add a place holder to a div with contenteditable = "true" : x
+>make the post template : x
+>design the new_pos div so it looks decent : x
+>design the main page layout so it looks decent : x
+>IMPORTANT : Lower the number of files (css and ejs) , in other words , find a way to lower the partials : x
