@@ -4,10 +4,10 @@ o : task done / x : task not done
 
 //TODO:
 
--fix the overflow issue in the main page : x
--change the structure of the post slider so it fits both the new_post div and the posts divs : x
--find a way to add a place holder to a div with contenteditable = "true" : x
--make the post template : x
--design the new_pos div so it looks decent : x
--design the main page layout so it looks decent : x
--IMPORTANT : Lower the number of files (css and ejs) , in other words , find a way to lower the partials : x
+-fix the overflow issue in the main page : x\n
+-change the structure of the post slider so it fits both the new_post div and the posts divs : x\n
+-find a way to add a place holder to a div with contenteditable = "true" : x\n
+-make the post template : x\n
+-design the new_pos div so it looks decent : x\n
+-design the main page layout so it looks decent : x\n
+-IMPORTANT : Lower the number of files (css and ejs) , in other words , find a way to lower the partials : x\n
