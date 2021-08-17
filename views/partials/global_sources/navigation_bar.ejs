@@ -8,4 +8,31 @@
 
     <a href ="/settings">Settings</a>
 
+    <input class = "search_bar" type="text" placeholder="Looking for Something ?">
+
+    <script>
+        isSelected = false;
+        search_bar = document.querySelector('.navbarbody>.search_bar')
+        document.addEventListener("click",(evt)=>
+        {
+            if(evt.target==search_bar)
+            {
+                isSelected = true;
+            }
+            else{
+                isSelected = false;
+            }
+            if(isSelected)
+            {
+                search_bar.style.borderColor = 'rgba(0, 119, 255,1)'
+            }else
+            { 
+               search_bar.style.borderColor = 'rgba(0, 119, 255,0)'
+            }
+        })
+        setInterval(()=>
+        {
+        },33)
+    </script>
+
 </div>
