@@ -6,7 +6,6 @@ o : task done / x : task not done
 
 -fix the overflow issue in the main page : x
 -change the structure of the post slider so it fits both the new_post div and the post divs : o
--find a way to add a place holder to a div with contenteditable = "true" : x
 -make the post template : o
 -design the new_pos div so it looks decent : o
 -design the main page layout so it looks decent : o
