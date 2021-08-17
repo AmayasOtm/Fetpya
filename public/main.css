@@ -1,0 +1,32 @@
+.friend_list
+{
+    position: fixed;
+    right : 400px;
+    top : 70px;
+}
+
+.friend_list>h1
+{
+    color : rgb(0, 119, 255);
+    width : fit-content;
+    border-color : rgb(0, 119, 255);
+    border-bottom-style : solid ;
+}
+
+.friend_list>h1
+{
+    color : rgb(0, 119, 255);
+    width : fit-content;
+    border-color : rgb(0, 119, 255);
+    border-bottom-style : solid ;
+}
+.friend_list>ul>li
+{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    border-bottom-color: lightgray ;
+    border-bottom-style: solid;
+}
