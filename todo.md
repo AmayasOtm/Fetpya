@@ -9,5 +9,5 @@ o : task done / x : task not done
 -find a way to add a place holder to a div with contenteditable = "true" : x
 -make the post template : o
 -design the new_pos div so it looks decent : o
--design the main page layout so it looks decent : x
+-design the main page layout so it looks decent : o
 -IMPORTANT : Lower the number of files (css and ejs) , in other words , find a way to lower the partials : o
