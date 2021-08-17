@@ -10,3 +10,11 @@ o : task done / x : task not done
 -design the new_pos div so it looks decent : o
 -design the main page layout so it looks decent : o
 -IMPORTANT : Lower the number of files (css and ejs) , in other words , find a way to lower the partials : o
+
+18/8/2021
+
+//TODO:
+ 
+ -make the nav bar's position fixed : x
+ -make the settings,messages,notification,user and single post pages : x
+ -create the database : x
