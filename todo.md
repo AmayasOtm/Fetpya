@@ -17,4 +17,4 @@ o : task done / x : task not done
  
  -make the nav bar's position fixed : o
  -make the login , register pages : o
- -create the database : x
+ -create the database : o
