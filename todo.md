@@ -15,6 +15,6 @@ o : task done / x : task not done
 
 //TODO:
  
- -make the nav bar's position fixed : x
+ -make the nav bar's position fixed : o
  -make the settings,messages,notification,user and single post pages : x
  -create the database : x
