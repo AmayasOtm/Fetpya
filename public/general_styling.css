@@ -13,6 +13,7 @@ body
     border-width: 1px;
     border-color: lightgrey;
     padding: 50px;
+    padding-top: 100px;
     border-style: none solid solid solid;
 }
 .new_post
@@ -51,6 +52,7 @@ body
 }
 .navbarbody
 {
+    position: fixed;
     width: 100%;
     background-color: white;
     border-bottom-style: solid;

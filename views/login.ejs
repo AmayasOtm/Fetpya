@@ -1,0 +1,95 @@
+<html>
+    <head>
+        <title>Login</title>
+    </head>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+        body
+        {
+            overflow-x:hidden;
+            font-family: 'Atkinson Hyperlegible', sans-serif;
+            margin:0px;
+        }
+        .C_option
+        {
+            margin-top: 150px;
+            margin-left: 350px;
+        }
+        h1
+        {
+            margin-bottom: 30px;
+            font-size: 100px;
+            color : rgb(0, 119, 255);
+        }
+
+        h2
+        {
+            margin-bottom: 30px;
+            font-size: 60px;
+            border-bottom-style: solid;
+            border-color: rgba(78, 161, 255,1);
+            width: fit-content;
+        }
+        .login_div
+        {
+            border-style: solid;
+            width: fit-content;
+            border-width: 4px;
+            border-color:rgb(0, 119, 255) ;
+            border-radius: 30px;
+            padding: 20px;
+            padding-left: 80px;
+        }
+        input
+        {
+            font-size:  50px;
+            outline: none;
+            border-width: 3px;
+            border-radius: 20px;
+            padding:15px;
+            border-style: solid ;
+            border-color:rgba(78, 161, 255,1) ;
+            margin-bottom: 30px;
+            margin-right: 40px;
+        }
+        .button
+        {
+            font-size: 50px;
+            color:white;
+            background-color: rgb(0, 119, 255) ;
+            width: fit-content;
+            padding: 15px 30px;
+            margin-left: 80%;
+            border-radius: 20px;
+            transition: background-color 70ms ease-in-out;
+        }
+        .button:hover
+        {
+            cursor:pointer;
+            background-color: rgba(78, 161, 255,1);
+            transition: background-color 70ms ease-in-out;
+        }
+        a{
+            font-size: 20px;
+            margin-left: 73%;
+        }
+    </style>
+
+    <body>
+        <div class ="C_option">
+            <h1>Fetpya.</h1>
+            <div class="login_div">
+
+                <h2>Enter your information :</h1>
+
+                <input type="text" placeholder="User Name">
+                <input type="password" placeholder="Password">
+
+                <div class ="button">Login</div>
+            </div>
+            <br>
+            <a href="/register">Create a new account ?</a>
+        </div>
+    </body>
+</html>
